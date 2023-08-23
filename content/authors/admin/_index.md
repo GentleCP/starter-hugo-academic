@@ -39,3 +39,5 @@ first_name: Alice
 email: dongchaopeng@iie.ac.cn
 ---
 I'm a student from the University of China Academy of Sciences(UCAS), as well as the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). 
+
+* ✉️ Email: dongchaopeng#iie.ac.cn (research) & me#gentlecp.com (personal) , replace "#" with "@".
