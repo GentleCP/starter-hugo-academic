@@ -1,7 +1,7 @@
 ---
 title: Chaopeng Dong
 role: PhD Student
-avatar_filename: https://avatars.githubusercontent.com/u/38175267?s=400&u=7c0db4a612f0ab6cd3dd9ab21ef09030f530233e&v=4
+avatar_filename: 38175267.jpg
 bio: My research interests include Software Supply Chain Security and IoT Security.
 interests:
   - Software Supply Chain Security
