@@ -29,7 +29,7 @@ education:
       year: 2019
     - course: BEng in Computer Science and Technology
       institution: School of Computer Science, Sichuan University
-      year: 2013
+      year: 2015
 superuser: true
 status:
   icon: ☕️
