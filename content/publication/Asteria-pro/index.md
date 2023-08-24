@@ -49,7 +49,7 @@ abstract: The widespread code reuse allows vulnerabilities to proliferate among 
 summary: A novel deep learning enhancement architecture by incorporating domain knowledge-based pre-filtration and re-ranking modules is proposed, and a prototype named Asteria-Pro based on Asteria is developed, which outperforms existing state-of-the-art approaches in the bug search task by a significant margin.
 
 tags: []
-featured: true
+featured: false
 
 # links:
 # - name: ""

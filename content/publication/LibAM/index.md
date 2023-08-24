@@ -13,7 +13,7 @@ authors:
   - Hongsong Zhu
   - Limin Sun
 date: "2023-09-20T00:00:00.000Z"
-doi: "https://dl.acm.org/doi/10.1145/3604611"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-24T00:00:00.000Z"
@@ -37,7 +37,7 @@ In this paper, we observe that TPL reuse typically involves not just isolated fu
 summary: LibAM is the first approach capable of detecting the exact reuse areas on FCG and offering substantial benefits for downstream tasks, as well as evaluating LibAM's accuracy on large-scale, real-world binaries in IoT firmware and generating a list of potential vulnerabilities for these devices.
 
 tags: []
-featured: true
+featured: false
 
 # links:
 # - name: ""
