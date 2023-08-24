@@ -19,14 +19,14 @@ links:
   - url: https://corpwechatbot.gentlecp.com/
     name: Document
     icon_pack: fab
-    icon: book
+    icon: ":book:"
 image:
   filename: https://corpwechatbot.gentlecp.com/img/work_mechanism.png
   focal_point: Smart
   preview_only: false
 ---
 <p align="center">
-<a href="https://github.com/GentleCP/corpwechat-bot"><img width="300" src="https://camo.githubusercontent.com/770e8d5fa4b8fcb8e0a3b3e5478e510b19b36f521ec0fa7b957d5a0951571db1/68747470733a2f2f67697465652e636f6d2f67656e746c6563702f496d6755726c2f7261772f6d61737465722f32303231303432353131313532332e706e67"></a>
+<a href="https://github.com/GentleCP/corpwechat-bot"><img width="300" src=""></a>
 </p>
 
 <p align="center">
