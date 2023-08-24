@@ -11,7 +11,7 @@ authors:
   - Zhiqiang Shi
   - Zhi Li
   - Limin Sun
-publication_short: ToSEM
+publication_short: ToSEM (CCF-A)
 abstract: >-
   The widespread code reuse allows vulnerabilities to proliferate among a vast
   variety of firmware. There is an urgent need to detect these vulnerable code
