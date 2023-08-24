@@ -9,7 +9,7 @@ draft: false
 featured: true
 authors:
   - admin
-categories:
+tags:
   - tool
 links:
   - url: https://github.com/GentleCP/corpwechatbot
