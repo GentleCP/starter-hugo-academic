@@ -43,13 +43,15 @@ url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-author_notes: []
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: ""
 publication: ACM Transactions on Software Engineering and Methodology
 projects: []
 date: 2023-06-17T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
