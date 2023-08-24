@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Shouguo Yang
-  - Chaopeng Dong
+  - "**Chaopeng Dong**"
   - Yang Xiao
   - Yiran Cheng
   - Zhiqiang Shi
