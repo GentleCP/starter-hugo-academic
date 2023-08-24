@@ -18,7 +18,7 @@ authors:
 author_notes:
   - ""
 publication: ACM Transactions on Software Engineering and Methodology
-publication_short: ToSEM
+publication_short: ToSEM (CCF-A)
 draft: false
 featured: false
 image:
