@@ -13,12 +13,12 @@ authors:
   - Zhi Li
   - Limin Sun
 publication: International Conference on Software Engineering
-publication_short: ICSE
+publication_short: ICSE2024
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2024-04-14T06:30:14.373Z
+date: 2023-08-24T11:06:29.969Z
 ---
