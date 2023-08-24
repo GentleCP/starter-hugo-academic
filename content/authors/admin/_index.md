@@ -41,4 +41,4 @@ email: dongchaopeng@iie.ac.cn
 I'm a student from the University of China Academy of Sciences(UCAS), as well as the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). 
 
 * ✉️ Research: dongchaopeng#iie.ac.cn
-*﻿ ✉️ Personal: me#gentlecp.com
+* ✉️ Personal: me#gentlecp.com
