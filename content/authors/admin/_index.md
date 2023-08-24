@@ -1,7 +1,7 @@
 ---
 title: Chaopeng Dong
 role: PhD Student
-avatar_filename: 38175267.jpg
+avatar_filename: avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg
 bio: My research interests include Software Supply Chain Security and IoT Security.
 interests:
   - Software Supply Chain Security
@@ -40,4 +40,5 @@ email: dongchaopeng@iie.ac.cn
 ---
 I'm a student from the University of China Academy of Sciences(UCAS), as well as the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). 
 
-* ✉️ Email: dongchaopeng#iie.ac.cn (research) & me#gentlecp.com (personal) , replace "#" with "@".
+* ✉️ Research: dongchaopeng#iie.ac.cn
+*﻿ ✉️ Personal: me#gentlecp.com
