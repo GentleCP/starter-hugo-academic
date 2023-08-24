@@ -19,7 +19,7 @@ links:
   - url: https://corpwechatbot.gentlecp.com/
     name: Document
     icon_pack: fab
-    icon: ":book:"
+    icon: book
 image:
   filename: https://corpwechatbot.gentlecp.com/img/work_mechanism.png
   focal_point: Smart
