@@ -35,14 +35,14 @@ tags: []
 slides: ""
 url_pdf: ""
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit: [**Unsplash**](https://github.com/Asteria-BCSD/Asteria-Pro/raw/master/pics/FAsteria_workflow_page-0001.jpg)"
   focal_point: ""
   preview_only: false
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: https://drive.google.com/file/d/1NZALJqz5W4jowrhXdWWRfuT8fRJfBQ5z/view?usp=sharing
 url_project: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: ""
+url_video: ""
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -53,15 +53,6 @@ date: 2023-06-17T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/Asteria-BCSD/Asteria-Pro
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
