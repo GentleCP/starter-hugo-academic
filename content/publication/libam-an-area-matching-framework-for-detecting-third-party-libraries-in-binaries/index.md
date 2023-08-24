@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Siyuan Li
   - Yongpan Wang
-  - <b>Chaopeng Dong</b>
+  - admin
   - Shouguo Yang
   - Hong Li
   - Hao Sun
