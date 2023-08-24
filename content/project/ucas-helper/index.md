@@ -6,6 +6,8 @@ draft: false
 featured: true
 authors:
   - admin
+tags:
+  - tool
 links:
   - url: https://github.com/GentleCP/UCAS-Helper
     name: Github
