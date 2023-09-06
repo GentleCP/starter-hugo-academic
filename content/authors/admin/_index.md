@@ -16,7 +16,7 @@ social:
     link: https://github.com/GentleCP
   - icon: cv
     icon_pack: ai
-    link: uploads/xx
+    link: uploads/DCP_CV.pdf
 organizations:
   - name: Institute of Information Engineering, Chinese Academy of Sciences (IIE,
       CAS)
