@@ -16,7 +16,7 @@ social:
     link: https://github.com/GentleCP
   - icon: cv
     icon_pack: ai
-    link: uploads/DCP_CV.pdf
+    link: uploads/Chaopeng_Dong_CV.pdf
 organizations:
   - name: Institute of Information Engineering, Chinese Academy of Sciences (IIE,
       CAS)
@@ -38,7 +38,7 @@ highlight_name: true
 first_name: Alice
 email: dongchaopeng@iie.ac.cn
 ---
-I'm a student from the University of China Academy of Sciences(UCAS), as well as the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). 
+I'm a student from the University of China Academy of Sciences(UCAS), as well as the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). My research is mainly focus on the security of software and firmware, which covers program analysis, vulnerability detection and software component analysis. Currently, I'm interested in construction of a high accuracy and efficiency vulnerability detection system, which aims to detect 1-day vulnerabilities in binaries. More details could be found in my publications. 
 
-* ✉️ Research: dongchaopeng#iie.ac.cn
-* ✉️ Personal: me#gentlecp.com
+* ✉️ Research: dongchaopeng@iie.ac.cn
+* ✉️ Personal: me@gentlecp.com
